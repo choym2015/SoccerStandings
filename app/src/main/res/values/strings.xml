@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoccerStandings</string>
+    <string name="error_network">Unable to fetch result due to network error. Please try again</string>
+    <string name="team_payload">Selected Team</string>
+</resources>
